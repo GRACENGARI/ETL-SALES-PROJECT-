@@ -1,0 +1,11 @@
+OrderId,Product,Category,SalesAmount,OrderDate,Region,CustomerName
+1001,Laptop Pro 13,Electronics,1000,1/5/2025,West,Alice Johnson
+1002,Mechanical Keyboard,Electronics,95.5,1/6/2025,East,Bob Smith
+1003,Desk Chair Ergonomic,Furniture,350,1/6/2025,West,Charlie Brown
+1004,Coffee Maker Deluxe,Home Goods,150,1/7/2025,Central,Diana Prince
+1005,Wireless Mouse,Electronics,25,1/7/2025,East,Evan Peters
+1006,Monitor 27-inch 4K,Electronics,550,1/8/2025,West,Fiona Glenanne
+1007,LED Desk Lamp,Home Goods,45.99,1/8/2025,South,George Costanza
+1008,External SSD 1TB,Electronics,89.99,1/9/2025,Central,Hannah Montana
+1009,Wood Bookshelf Small,Furniture,120,1/9/2025,South,Ian McKellen
+1010,Gaming Headset,Electronics,-125,1/10/2025,East,Jasmine Teo
